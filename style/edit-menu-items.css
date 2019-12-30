@@ -1,0 +1,29 @@
+#menu{
+margin-left: 30px;
+
+
+}
+.cont{
+    margin:0 auto;
+align-content: center;
+justify-content: center;
+    width:80%;
+    height: 250px;
+}
+
+
+select {
+  
+  
+    border: none;
+    border-radius: 4px;
+    background-color: #f1f1f1;
+  }
+  .cont2{
+      text-align: left;
+      align-content: left;
+      width:100%;
+      float: left;
+      justify-content: space-between;
+  }
+  
